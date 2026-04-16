@@ -37,16 +37,7 @@
 
 ---
 
-<!-- Let's Connect -->
-## 🤝 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/alyaqistiina)
-[![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:qistinaalya014@gmail.com)
-
-</div>
 
 ---
 
